@@ -12,7 +12,8 @@ function App() {
       <h3>Este es un editor de personajes para el sistema de Regnum ex Nihilo (ahora hecho con REACT)</h3>
       <section>
           <div>
-              <span>Nombre: </span><input type="text" name="" id="" />
+              <span>Jugador: </span><input type="text" name="" id="txt-character-name" />
+              <span>Nombre: </span><input type="text" name="" id="txt-player-name" />
           </div>
       </section>
     </>
